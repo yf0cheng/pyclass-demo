@@ -1,0 +1,7 @@
+wheel
+pandas
+pillow
+seaborn
+numpy
+../pyutils
+
